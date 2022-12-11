@@ -1,8 +1,7 @@
-### Hi, I am William Lin
+### Hello!
 
-I'm currently a 2nd Year Computer Science student with many interests.
-
-Currently I am working on a Python application that will track bowling scores, as I am currently going through a bowling phase.
+- I'm currently a 2nd Year Computer Science student at the University of Minnesota Twin Cities
+- I'm currently working on a Bowling Score Tracker in Python with Google Sheets API
 
 <!--
 **will-lin2021/will-lin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
