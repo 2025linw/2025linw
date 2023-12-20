@@ -1,6 +1,6 @@
 ### Hello!
 
-- I'm currently a 3nd Year Computer Science student at the University of Minnesota - Twin Cities
+- I'm currently a 3nd Year Computer Science student at the University of Minnesota Twin Cities
 - I'm currently working on a Bowling Score Tracker in Rust
 
 <!--
