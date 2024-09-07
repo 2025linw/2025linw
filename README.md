@@ -1,7 +1,7 @@
 ### Hello!
 
-- I'm currently a 4th Year Computer Science student at the University of Minnesota Twin Cities
-- I'm currently working on a Bowling Score Tracker in Rust
+- 4th Year Computer Science at University of Minnesota Twin Cities
+- Currently working on a Full-stack Bowling Tracker App
 
 <!--
 **will-lin2021/will-lin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
