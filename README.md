@@ -1,7 +1,7 @@
 ### Hello!
 
-- 4th Year Computer Science at University of Minnesota Twin Cities
-- Currently working on a Full-stack Bowling Tracker App
+- I'm currently a 4th Year Student University of Minnesota Twin Cities pursuing a Computer Science Degree
+- I'm currently working on a Todo List App with a Rust API Backend and (hopefully) React Native as the UI Frontend
 
 <!--
 **will-lin2021/will-lin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
