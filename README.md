@@ -1,7 +1,8 @@
 ### Hello!
 
-- I'm currently a 4th Year Student University of Minnesota Twin Cities pursuing a Computer Science Degree
-- I'm currently working on a Todo List App with a Rust API Backend and (hopefully) React Native as the UI Frontend
+- I am currently in my 4th year at the University of Minnesota Twin Cities for Computer Science!
+- I will be pursuing a Master's Degree in Fall 2025!
+- I'm currently working on a Todo List App with a Rust API Backend and (hopefully) React Native as the UI Frontend!
 
 <!--
 **will-lin2021/will-lin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
