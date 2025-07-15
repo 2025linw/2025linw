@@ -7,7 +7,7 @@
   - I seek to explore various current and new technologies: studying and implementing current industry practices within my own projects.
 
 A project that I am currently working on is a todo list that seeks to add features that I have not seen in other todo list out there.
-- In this project, I also explore creating web servers in Rust and implementing OAuth 2.0 with JWTs.
+- In this project, I explore implementing a REST-ful API in Axum web server library in Rust and implementing OAuth 2.0 with JWTs.
 
 <!--
 **will-lin2021/will-lin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
