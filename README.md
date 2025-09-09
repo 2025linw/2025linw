@@ -1,13 +1,15 @@
 ### Hello!
 
 - I am William Lin!
-- I am pursuing a Master's Degree in Computer Science at the University of Minnesota Twin Cities in the Fall.
-- I am currently working on a Todo List App with a Rust API Backend and (hopefully) React Native as the UI Frontend!
-- I am interested in learning and exploring many different concepts and ideas in computer science!
-  - I seek to explore various current and new technologies: studying and implementing current industry practices within my own projects.
+- I am pursuing a Master of Science in Computer Science at the University of Minnesota Twin Cities.
+- I am currently working on a Todo List App with React Native as the frontend framework and Axum as the backend in Rust.
+- I am always interested in learning and understand new things.
 
-A project that I am currently working on is a todo list that seeks to add features that I have not seen in other todo list out there.
-- In this project, I explore implementing a REST-ful API in Axum web server library in Rust and implementing OAuth 2.0 with JWTs.
+Some projects that I have worked on in the past:
+- Todo List App (React Native frontend / Axum (Rust) backend)
+- Custom-made [Corne](https://github.com/foostan/crkbd) keyboard with a personalized key layout
+- Bowling Score Tracking Program
+- Home Lab to host personal web services with a nginx reverse proxy and SSL
 
 <!--
 **will-lin2021/will-lin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
