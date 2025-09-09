@@ -6,11 +6,11 @@
 - I am always interested in learning and understand new things.
 
 Some projects that I have worked on in the past:
-- Todo List App (React Native frontend / Axum (Rust) backend)
-- Custom-made [Corne](https://github.com/foostan/crkbd) keyboard with a personalized key layout
+- Todo List App (React Native frontend with Axum/Rust backend)
+- Custom-made [corne](https://github.com/foostan/crkbd) keyboard with a [personalized key layout](https://github.com/2025linw/zmk-config/blob/main/config/corne.keymap)
 - Bowling Score Tracking Program
 - Home Lab to host personal web services with a nginx reverse proxy and SSL
-- Dynamic DNS IP Updater for Cloudflare
+- [Dynamic DNS IP Updater for Cloudflare](https://github.com/2025linw/cloudflare-dns-updater)
 
 <!--
 **will-lin2021/will-lin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
